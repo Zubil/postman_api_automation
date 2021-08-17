@@ -11,6 +11,8 @@ Writing a simple script to test a public API
 
 5.Below Authorization add Conten-type> application/json
 
+Note: For the Post Request please update the user credential otherwise it will create an error due to already exiting user details
+
 ---
 
 We are using POSTMAN to test the API with basic testing scripts
