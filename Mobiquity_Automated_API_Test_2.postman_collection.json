@@ -25,7 +25,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer 4b1f0fc4504091869ef473af86f0454d260ade02b8a9542136cc093b75b48244",
+						"value": "Bearer (enter your access key here)",
 						"type": "text"
 					},
 					{
